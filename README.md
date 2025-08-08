@@ -31,7 +31,7 @@
 ---
 
 ##  Connect with Me
-[![Portfolio](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white)](https://epicgamerglobal.github.io)
+[![Portfolio](https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white)]([https://epicgamerglobal.github.io](https://epicgamerglobal.github.io/personalsite/))
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:epicgamerglobal@gmail.com)
 
 ---
