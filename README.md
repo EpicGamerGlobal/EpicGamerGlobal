@@ -3,7 +3,7 @@
 ---
 
 ##  About Me
--  Working on: [Hack Club SLHS Website]([[https://github.com/EpicGamerGlobal/Arya_Salem09.github.io](https://github.com/EpicGamerGlobal/SLHS-HackClub-Website)](https://github.com/EpicGamerGlobal/SLHS-HackClub-Website))
+-  Working on: [![SLHS Hack Club Website](https://github-readme-stats.vercel.app/api/pin/?username=EpicGamerGlobal&repo=SLHS-HackClub-Website&theme=tokyonight)](https://github.com/EpicGamerGlobal/SLHS-HackClub-Website)
 -  Learning: React, Angular, Spring Boot, Data Structures & Algorithms
 
 ---
